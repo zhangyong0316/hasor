@@ -12,7 +12,7 @@
         <downloadSources>true</downloadSources>
         <downloadJavadocs>true</downloadJavadocs>
         <jacoco.version>0.8.5</jacoco.version>
-        <spring.version>5.2.3.RELEASE</spring.version>
+        <spring.version>5.3.32</spring.version>
         <spring.boot.version>2.2.4.RELEASE</spring.boot.version>
         <!--<maven.test.skip>true</maven.test.skip>-->
         <!--<skipTests>true</skipTests>-->
